@@ -6,10 +6,18 @@
     <title>_03___UsingWinJSStyleSheets</title>
 
     <!-- Riferimenti WinJS -->
-    <!--<link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />-->          <!--Dark  theme-->
-    <link href="//Microsoft.WinJS.2.0/css/ui-light.css" rel="stylesheet" />  <!--Light theme-->
+
+    <!-- Dark theme for Windows Store Application -->
+    <!--<link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />-->           
+
+    <!-- Light theme for Windows Store Application -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-light.css" rel="stylesheet" />                 
+    
     <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
     <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+    
+    <!-- Stylesheet for Segoe UI Symbols -->
+    <link href="css/segoe-ui-symbol.css" rel="stylesheet" />
 
     <!-- Riferimenti AngularJS -->
     <script src="/js/lib/angular.js"></script>
@@ -19,6 +27,10 @@
     <script src="/js/default.js"></script>
 </head>
 <body>
+    <div class="win-type-xx-large">
+        How many <span class="icon-people" /> <span class="icon-solid-heart" /> AngularJS? 
+    </div>
+
     <button class="win-backbutton" aria-label="Back"></button>
     <div class="win-type-xx-large win-type-ellipsis" 
          style="width:300px">win-type-xx-large win-type-ellipsis</div>
