@@ -25,11 +25,18 @@
             }
         }
 
-        $scope.strongestFootballersEver =  [
-            { name: 'Roberto BAGGIO', photo: 'https://raw.github.com/GianniBortoloBossini/20140321-AngularJSDay-WindowsStoreAppWithAngular/master/04%20-%20UsingAngularWinjsLibrary/img/bs-baggio.jpg?raw=true' }, //'img/bs-baggio.jpg' },
-            { name: 'Pep GUARDIOLA', photo: 'https://github.com/GianniBortoloBossini/20140321-AngularJSDay-WindowsStoreAppWithAngular/blob/master/04%20-%20UsingAngularWinjsLibrary/img/bs-guardiola.jpg?raw=true' }, //'img/bs-guardiola.jpg' },
-            { name: 'Gheroghe HAGI', photo: 'https://raw.github.com/GianniBortoloBossini/20140321-AngularJSDay-WindowsStoreAppWithAngular/master/04%20-%20UsingAngularWinjsLibrary/img/bs-hagi.jpg'}, // 'img/bs-hagi.jpg' },
-            { name: 'Dario HUBNER', photo: 'https://raw.github.com/GianniBortoloBossini/20140321-AngularJSDay-WindowsStoreAppWithAngular/master/04%20-%20UsingAngularWinjsLibrary/img/bs-hubner.jpg'} // 'img/bs-hubner.jpg' }
+        //$scope.strongestFootballersEver =  [
+        //    { name: 'Roberto BAGGIO', photo: 'https://raw.github.com/GianniBortoloBossini/20140321-AngularJSDay-WindowsStoreAppWithAngular/master/04%20-%20UsingAngularWinjsLibrary/img/bs-baggio.jpg?raw=true' }, //'img/bs-baggio.jpg' },
+        //    { name: 'Pep GUARDIOLA', photo: 'https://github.com/GianniBortoloBossini/20140321-AngularJSDay-WindowsStoreAppWithAngular/blob/master/04%20-%20UsingAngularWinjsLibrary/img/bs-guardiola.jpg?raw=true' }, //'img/bs-guardiola.jpg' },
+        //    { name: 'Gheroghe HAGI', photo: 'https://raw.github.com/GianniBortoloBossini/20140321-AngularJSDay-WindowsStoreAppWithAngular/master/04%20-%20UsingAngularWinjsLibrary/img/bs-hagi.jpg'}, // 'img/bs-hagi.jpg' },
+        //    { name: 'Dario HUBNER', photo: 'https://raw.github.com/GianniBortoloBossini/20140321-AngularJSDay-WindowsStoreAppWithAngular/master/04%20-%20UsingAngularWinjsLibrary/img/bs-hubner.jpg'} // 'img/bs-hubner.jpg' }
+        //];
+
+        $scope.strongestFootballersEver = [
+            { name: 'Roberto BAGGIO', photo: 'img/bs-baggio.jpg' },
+            { name: 'Pep GUARDIOLA', photo: 'img/bs-guardiola.jpg' },
+            { name: 'Gheroghe HAGI', photo: 'img/bs-hagi.jpg' },
+            { name: 'Dario HUBNER', photo: 'img/bs-hubner.jpg' }
         ];
     })
 })();

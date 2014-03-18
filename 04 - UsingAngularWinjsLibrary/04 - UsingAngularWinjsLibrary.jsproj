@@ -61,10 +61,18 @@
     <Content Include="images\splashscreen.scale-100.png" />
     <Content Include="images\storelogo.scale-100.png" />
     <Content Include="css\default.css" />
-    <Content Include="img\bs-baggio.jpg" />
-    <Content Include="img\bs-guardiola.jpg" />
-    <Content Include="img\bs-hagi.jpg" />
-    <Content Include="img\bs-hubner.jpg" />
+    <Content Include="img\bs-baggio.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\bs-guardiola.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\bs-hagi.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="img\bs-hubner.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="js\default.js" />
     <Content Include="js\lib\angular.js" />
     <Content Include="js\lib\angular-winjs.js" />
