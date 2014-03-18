@@ -27,7 +27,7 @@
         $scope.strongestFootballersEver =  [
             { name: 'Roberto BAGGIO', photo: 'img/bs-baggio.jpg' },
             { name: 'Pep GUARDIOLA', photo: 'img/bs-guardiola.jpg' },
-            { name: 'Gheroghe HAGI', photo: 'img/bs-hagi.jpg' },
+            { name: 'Gheorghe HAGI', photo: 'img/bs-hagi.jpg' },
             { name: 'Dario HUBNER', photo: 'img/bs-hubner.jpg' }
         ];
     })
