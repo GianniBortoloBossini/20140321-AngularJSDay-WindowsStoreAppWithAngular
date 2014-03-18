@@ -13,6 +13,8 @@ Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "03 - UsingWinJSStyleSheets"
 EndProject
 Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "04 - UsingAngularWinjsLibrary", "04 - UsingAngularWinjsLibrary\04 - UsingAngularWinjsLibrary.jsproj", "{92DBAF38-5839-4E9F-B6DB-CA05CD079724}"
 EndProject
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "05 - AppLifecycleWithAngular", "05 - AppLifecycleWithAngular\05 - AppLifecycleWithAngular.jsproj", "{391BD42B-F6C3-45FC-97DF-DB5159F41730}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +147,30 @@ Global
 		{92DBAF38-5839-4E9F-B6DB-CA05CD079724}.Release|x86.ActiveCfg = Release|x86
 		{92DBAF38-5839-4E9F-B6DB-CA05CD079724}.Release|x86.Build.0 = Release|x86
 		{92DBAF38-5839-4E9F-B6DB-CA05CD079724}.Release|x86.Deploy.0 = Release|x86
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|ARM.ActiveCfg = Debug|ARM
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|ARM.Build.0 = Debug|ARM
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|ARM.Deploy.0 = Debug|ARM
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|x64.ActiveCfg = Debug|x64
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|x64.Build.0 = Debug|x64
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|x64.Deploy.0 = Debug|x64
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|x86.ActiveCfg = Debug|x86
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|x86.Build.0 = Debug|x86
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Debug|x86.Deploy.0 = Debug|x86
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|ARM.ActiveCfg = Release|ARM
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|ARM.Build.0 = Release|ARM
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|ARM.Deploy.0 = Release|ARM
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|x64.ActiveCfg = Release|x64
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|x64.Build.0 = Release|x64
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|x64.Deploy.0 = Release|x64
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|x86.ActiveCfg = Release|x86
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|x86.Build.0 = Release|x86
+		{391BD42B-F6C3-45FC-97DF-DB5159F41730}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
